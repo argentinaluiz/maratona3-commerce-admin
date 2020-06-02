@@ -1,0 +1,18 @@
+[
+  {
+    "model": "tenant.tenant",
+    "pk": "1cc0182d-bdf9-435b-86c3-2a201100a134",
+    "fields": {
+      "company": "Store 1",
+      "site_id": 2
+    }
+  },
+  {
+    "model": "tenant.tenant",
+    "pk": "5404ef25-b6a1-43ec-977b-cce1509f2c8b",
+    "fields": {
+      "company": "Store 2",
+      "site_id": 3
+    }
+  }
+]

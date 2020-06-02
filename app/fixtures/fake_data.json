@@ -1,0 +1,26 @@
+[
+  {
+    "model": "sites.site",
+    "pk": 2,
+    "fields": {
+      "domain": "store1.code-commerce.test",
+      "name": "store1.code-commerce.test"
+    }
+  },
+  {
+    "model": "sites.site",
+    "pk": 3,
+    "fields": {
+      "domain": "store2.code-commerce.test",
+      "name": "store2.code-commerce.test"
+    }
+  },
+  {
+    "model": "sites.site",
+    "pk": 4,
+    "fields": {
+      "domain": "store3.code-commerce.test",
+      "name": "store3.code-commerce.test"
+    }
+  }
+]
